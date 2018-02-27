@@ -9,4 +9,15 @@
 .compe-text { color: #19450F; }
 .white-text { color: #FFFFFF; }
 
-.img-fluid { max-width: 20%; }
+
+@media (max-width: 419px) {
+    .img-fluid { max-width: 50% !important }
+}
+
+@media (min-width: 420px) and (max-width: 719px) {
+    .img-fluid { max-width: 60% !important }
+}
+
+@media (min-width: 720px) {
+    .img-fluid { max-width: 40% !important }
+}
