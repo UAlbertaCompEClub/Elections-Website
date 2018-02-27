@@ -4,6 +4,14 @@
 .margin-top-20 { margin-top: 2.0em; }
 .margin-top-25 { margin-top: 2.5em; }
 .margin-top-30 { margin-top: 3.0em; }
+
+.margin-bot-05 { margin-bottom: 0.5em; }
+.margin-bot-10 { margin-bottom: 1.0em; }
+.margin-bot-15 { margin-bottom: 1.5em; }
+.margin-bot-20 { margin-bottom: 2.0em; }
+.margin-bot-25 { margin-bottom: 2.5em; }
+.margin-bot-30 { margin-bottom: 3.0em; }
+
 .center { margin-left: auto; margin-right: auto; }
 .background-compe { background-color: #19450F !important }
 .compe-text { color: #19450F; }
