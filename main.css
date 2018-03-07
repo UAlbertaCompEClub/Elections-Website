@@ -18,6 +18,15 @@
 .compe-text { color: #19450F !important ; }
 .white-text { color: #FFFFFF !important ; }
 
+.fixed-top {
+    position: fixed;
+    margin-bottom: 100px;
+}
+
+.content {
+    margin-top: 180px;
+}
+
 .vote_header {
     color: #393939;
     padding: 16px;
