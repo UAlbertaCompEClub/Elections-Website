@@ -13,10 +13,20 @@
 .margin-bot-30 { margin-bottom: 3.0em; }
 
 .center { margin-left: auto; margin-right: auto; }
-.background-compe { background-color: #19450F !important }
-.compe-text { color: #19450F; }
-.white-text { color: #FFFFFF; }
+.background-compe { background-color: #19450F !important; }
+.background-yellow { background-color: yellow !important; }
+.compe-text { color: #19450F !important ; }
+.white-text { color: #FFFFFF !important ; }
 
+.vote_header {
+    color: #393939;
+    padding: 16px;
+    border-radius: 4px;
+    background-color: #e5cb09 !important;
+}
+
+.vote_header a { color: #393939; }
+.vote_header a:hover { color: #393939; }
 
 @media (max-width: 419px) {
     .img-fluid { max-width: 50% !important }
