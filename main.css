@@ -34,6 +34,7 @@
     background-color: #e5cb09 !important;
 }
 
+.large-font { font-size: 1.3em; }
 .vote_header a { color: #393939; }
 .vote_header a:hover { color: #393939; }
 
