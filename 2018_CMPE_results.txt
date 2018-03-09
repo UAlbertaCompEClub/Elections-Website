@@ -1,0 +1,254 @@
+
+################################################################################
+Processing votes for race: President (CMPE)
+Candidates in this race: Shally Banh and Petar Cvijovic (CMPE), None of the Above - President CMPE
+Total winners to find in this race: 5
+
+Beginning round 1
+There were 77 votes cast this round.
+Number of votes required to declare a winner this round:  39
+Shally Banh and Petar Cvijovic (CMPE) received: 60 first place votes. 78%
+None of the Above - President CMPE received: 17 first place votes. 22%
+The winner is Shally Banh and Petar Cvijovic (CMPE)
+Shally Banh and Petar Cvijovic (CMPE) has already won, redistributing votes.
+
+Beginning round 1
+There were 43 votes cast this round.
+Number of votes required to declare a winner this round:  22
+None of the Above - President CMPE received: 43 first place votes. 100%
+The winner is None of the Above - President CMPE
+Shally Banh and Petar Cvijovic (CMPE) has already won, redistributing votes.
+None of the Above - President CMPE has already won, redistributing votes.
+
+Beginning round 1
+There were 0 votes cast this round.
+Moving on...
+The winners are: 
+1 - Shally Banh and Petar Cvijovic (CMPE)
+2 - None of the Above - President CMPE
+
+
+################################################################################
+Processing votes for race: VP External (CMPE)
+Candidates in this race: Ahmed El Gohary and Danish Dua (CMPE), Amir Shukayev (CMPE), None of the Above - VPE CMPE
+Total winners to find in this race: 5
+
+Beginning round 1
+There were 78 votes cast this round.
+Number of votes required to declare a winner this round:  40
+Ahmed El Gohary and Danish Dua (CMPE) received: 28 first place votes. 36%
+Amir Shukayev (CMPE) received: 36 first place votes. 46%
+None of the Above - VPE CMPE received: 14 first place votes. 18%
+No winner found.
+None of the Above - VPE CMPE will be eliminated.
+
+Beginning round 2
+There were 67 votes cast this round.
+Number of votes required to declare a winner this round:  34
+Ahmed El Gohary and Danish Dua (CMPE) received: 30 first place votes. 45%
+Amir Shukayev (CMPE) received: 37 first place votes. 55%
+The winner is Amir Shukayev (CMPE)
+Amir Shukayev (CMPE) has already won, redistributing votes.
+
+Beginning round 1
+There were 69 votes cast this round.
+Number of votes required to declare a winner this round:  35
+Ahmed El Gohary and Danish Dua (CMPE) received: 43 first place votes. 62%
+None of the Above - VPE CMPE received: 26 first place votes. 38%
+The winner is Ahmed El Gohary and Danish Dua (CMPE)
+Amir Shukayev (CMPE) has already won, redistributing votes.
+Ahmed El Gohary and Danish Dua (CMPE) has already won, redistributing votes.
+
+Beginning round 1
+There were 46 votes cast this round.
+Number of votes required to declare a winner this round:  24
+None of the Above - VPE CMPE received: 46 first place votes. 100%
+The winner is None of the Above - VPE CMPE
+Amir Shukayev (CMPE) has already won, redistributing votes.
+Ahmed El Gohary and Danish Dua (CMPE) has already won, redistributing votes.
+None of the Above - VPE CMPE has already won, redistributing votes.
+
+Beginning round 1
+There were 0 votes cast this round.
+Moving on...
+The winners are: 
+1 - Amir Shukayev (CMPE)
+2 - Ahmed El Gohary and Danish Dua (CMPE)
+3 - None of the Above - VPE CMPE
+
+
+################################################################################
+Processing votes for race: VP Internal (CMPE)
+Candidates in this race: Thomas Tetz and Navras Kamal (CMPE), None of the Above - VPI CMPE
+Total winners to find in this race: 5
+
+Beginning round 1
+There were 75 votes cast this round.
+Number of votes required to declare a winner this round:  38
+Thomas Tetz and Navras Kamal (CMPE) received: 57 first place votes. 76%
+None of the Above - VPI CMPE received: 18 first place votes. 24%
+The winner is Thomas Tetz and Navras Kamal (CMPE)
+Thomas Tetz and Navras Kamal (CMPE) has already won, redistributing votes.
+
+Beginning round 1
+There were 46 votes cast this round.
+Number of votes required to declare a winner this round:  24
+None of the Above - VPI CMPE received: 46 first place votes. 100%
+The winner is None of the Above - VPI CMPE
+Thomas Tetz and Navras Kamal (CMPE) has already won, redistributing votes.
+None of the Above - VPI CMPE has already won, redistributing votes.
+
+Beginning round 1
+There were 0 votes cast this round.
+Moving on...
+The winners are: 
+1 - Thomas Tetz and Navras Kamal (CMPE)
+2 - None of the Above - VPI CMPE
+
+
+################################################################################
+Processing votes for race: VP Finance (CMPE)
+Candidates in this race: Ishaat Chowdhury (CMPE), None of the Above - VPF CMPE
+Total winners to find in this race: 5
+
+Beginning round 1
+There were 75 votes cast this round.
+Number of votes required to declare a winner this round:  38
+Ishaat Chowdhury (CMPE) received: 58 first place votes. 77%
+None of the Above - VPF CMPE received: 17 first place votes. 23%
+The winner is Ishaat Chowdhury (CMPE)
+Ishaat Chowdhury (CMPE) has already won, redistributing votes.
+
+Beginning round 1
+There were 46 votes cast this round.
+Number of votes required to declare a winner this round:  24
+None of the Above - VPF CMPE received: 46 first place votes. 100%
+The winner is None of the Above - VPF CMPE
+Ishaat Chowdhury (CMPE) has already won, redistributing votes.
+None of the Above - VPF CMPE has already won, redistributing votes.
+
+Beginning round 1
+There were 0 votes cast this round.
+Moving on...
+The winners are: 
+1 - Ishaat Chowdhury (CMPE)
+2 - None of the Above - VPF CMPE
+
+
+################################################################################
+Processing votes for race: VP Social (CMPE)
+Candidates in this race: Erik Lewis (CMPE), None of the Above - VPS CMPE
+Total winners to find in this race: 5
+
+Beginning round 1
+There were 74 votes cast this round.
+Number of votes required to declare a winner this round:  38
+Erik Lewis (CMPE) received: 58 first place votes. 78%
+None of the Above - VPS CMPE received: 16 first place votes. 22%
+The winner is Erik Lewis (CMPE)
+Erik Lewis (CMPE) has already won, redistributing votes.
+
+Beginning round 1
+There were 44 votes cast this round.
+Number of votes required to declare a winner this round:  23
+None of the Above - VPS CMPE received: 44 first place votes. 100%
+The winner is None of the Above - VPS CMPE
+Erik Lewis (CMPE) has already won, redistributing votes.
+None of the Above - VPS CMPE has already won, redistributing votes.
+
+Beginning round 1
+There were 0 votes cast this round.
+Moving on...
+The winners are: 
+1 - Erik Lewis (CMPE)
+2 - None of the Above - VPS CMPE
+
+
+################################################################################
+Processing votes for race: AVP Hackathon (CMPE)
+Candidates in this race: Danish Dua (CMPE), Nathan Doraty (CMPE), None of the Above - Hackathon CMPE
+Total winners to find in this race: 5
+
+Beginning round 1
+There were 79 votes cast this round.
+Number of votes required to declare a winner this round:  40
+Danish Dua (CMPE) received: 16 first place votes. 20%
+Nathan Doraty (CMPE) received: 46 first place votes. 58%
+None of the Above - Hackathon CMPE received: 17 first place votes. 22%
+The winner is Nathan Doraty (CMPE)
+Nathan Doraty (CMPE) has already won, redistributing votes.
+
+Beginning round 1
+There were 68 votes cast this round.
+Number of votes required to declare a winner this round:  35
+Danish Dua (CMPE) received: 37 first place votes. 54%
+None of the Above - Hackathon CMPE received: 31 first place votes. 46%
+The winner is Danish Dua (CMPE)
+Nathan Doraty (CMPE) has already won, redistributing votes.
+Danish Dua (CMPE) has already won, redistributing votes.
+
+Beginning round 1
+There were 51 votes cast this round.
+Number of votes required to declare a winner this round:  26
+None of the Above - Hackathon CMPE received: 51 first place votes. 100%
+The winner is None of the Above - Hackathon CMPE
+Nathan Doraty (CMPE) has already won, redistributing votes.
+Danish Dua (CMPE) has already won, redistributing votes.
+None of the Above - Hackathon CMPE has already won, redistributing votes.
+
+Beginning round 1
+There were 0 votes cast this round.
+Moving on...
+The winners are: 
+1 - Nathan Doraty (CMPE)
+2 - Danish Dua (CMPE)
+3 - None of the Above - Hackathon CMPE
+
+
+################################################################################
+Processing votes for race: VP All The Things (CMPE)
+Candidates in this race: Jessica Prieto (CMPE), Ryan Huard (CMPE), None of the Above - VPATT CMPE
+Total winners to find in this race: 5
+
+Beginning round 1
+There were 78 votes cast this round.
+Number of votes required to declare a winner this round:  40
+Jessica Prieto (CMPE) received: 36 first place votes. 46%
+Ryan Huard (CMPE) received: 22 first place votes. 28%
+None of the Above - VPATT CMPE received: 20 first place votes. 26%
+No winner found.
+None of the Above - VPATT CMPE will be eliminated.
+
+Beginning round 2
+There were 62 votes cast this round.
+Number of votes required to declare a winner this round:  32
+Jessica Prieto (CMPE) received: 39 first place votes. 63%
+Ryan Huard (CMPE) received: 23 first place votes. 37%
+The winner is Jessica Prieto (CMPE)
+Jessica Prieto (CMPE) has already won, redistributing votes.
+
+Beginning round 1
+There were 71 votes cast this round.
+Number of votes required to declare a winner this round:  36
+Ryan Huard (CMPE) received: 48 first place votes. 68%
+None of the Above - VPATT CMPE received: 23 first place votes. 32%
+The winner is Ryan Huard (CMPE)
+Jessica Prieto (CMPE) has already won, redistributing votes.
+Ryan Huard (CMPE) has already won, redistributing votes.
+
+Beginning round 1
+There were 53 votes cast this round.
+Number of votes required to declare a winner this round:  27
+None of the Above - VPATT CMPE received: 53 first place votes. 100%
+The winner is None of the Above - VPATT CMPE
+Jessica Prieto (CMPE) has already won, redistributing votes.
+Ryan Huard (CMPE) has already won, redistributing votes.
+None of the Above - VPATT CMPE has already won, redistributing votes.
+
+Beginning round 1
+There were 0 votes cast this round.
+Moving on...
+The winners are: 
+1 - Jessica Prieto (CMPE)
+2 - Ryan Huard (CMPE)
+3 - None of the Above - VPATT CMPE
