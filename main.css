@@ -43,6 +43,7 @@
     .vote_header { padding: 10px; }
     .vote_header h1 { font-size: 1.3em; line-height:1.3em }
     .vote_header .lead { margin: 0; margin-top: -6px; }
+    .large-font { font-size: 1.1em; }
 }
 
 @media (min-width: 420px) and (max-width: 719px) {
